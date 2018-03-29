@@ -1,0 +1,1 @@
+cmd_/home/jjohn3/OS_final/kernel_module/npheap.o := ld -m elf_x86_64   -r -o /home/jjohn3/OS_final/kernel_module/npheap.o /home/jjohn3/OS_final/kernel_module/src/core.o /home/jjohn3/OS_final/kernel_module/src/ioctl.o /home/jjohn3/OS_final/kernel_module/interface.o 
